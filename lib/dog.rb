@@ -1,4 +1,6 @@
 class Dog
 end
 
-Dog.new 
+Dog.new = Lisa
+Dog.new = Fluffy
+Dog.new = Scruffy
